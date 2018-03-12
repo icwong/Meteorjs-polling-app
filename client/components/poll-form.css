@@ -3,9 +3,20 @@
 }
 .question-group 	{
 	margin-bottom:20px;
-	background:#EEE;
-	padding:20px;
+	background-color: black;
 }
 .question-group label 	{
-	font-size:18px;
+	font-size: 20px;
+	text-align: center;
+	color: #c5a544;
+}
+
+.form-group-1 {
+	background-color: black;
+	padding-top: 15px;
+}
+
+.choice-group label {
+	color: #c5a544;
+	font-size: 20px;
 }

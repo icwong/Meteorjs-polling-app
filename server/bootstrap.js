@@ -13,14 +13,6 @@ Meteor.startup(function() {
           { text: 'No. I like plain JS', votes: 0 }
         ]
       },
-      {
-        question: 'Is CSS3 Flexbox the greatest thing since array_slice(bread)?',
-        choices: [
-          { text: '100% yes', votes: 0 },
-          { text: '200% yes', votes: 0 },
-          { text: '300% yes', votes: 0 }
-        ]
-      }
     ];
 
     // loop over each sample poll and insert into database

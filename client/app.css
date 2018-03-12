@@ -1,5 +1,5 @@
-body 	{
-	padding-top:50px; 
+body {
+	background-color: black;
 }
 .polls 	{
 	display:flex;
@@ -9,4 +9,31 @@ body 	{
 .poll 	{
 	width:25%;
 	margin:20px;
+}
+
+h1 {
+	color: #8b6700;
+}
+
+.navbar{
+	background-color: black;
+
+}
+
+.navbar-brand{
+	color: #1A535C;
+}
+
+
+a {
+	color: #1A535C;
+}
+
+.form-group{
+	background-color: #FF6B6B;
+}
+
+.browse {
+    text-align: center;
+    padding: 20px 0px 20px 0px;
 }
