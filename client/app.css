@@ -37,3 +37,13 @@ a {
     text-align: center;
     padding: 20px 0px 20px 0px;
 }
+
+.img-container{
+	position: relative;
+	top: 20px;
+}
+
+img {
+	position: relative;
+	top: -10px;
+}
